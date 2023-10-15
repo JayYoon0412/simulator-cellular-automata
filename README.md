@@ -1,6 +1,6 @@
 # Cell Society Design Plan
 
-### Team 13: Jay Yoon, Woongyu Jin, Ted Peterson
+Jay Yoon, Woongyu Jin, Ted Peterson
 
 ## Overview
 
