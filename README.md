@@ -20,6 +20,9 @@ The View works with the direct user-end (what the user sees); the Model structur
 abstractions and other concrete subclasses; the Controller will act as the middleware, handling
 events.
 
+![스크린샷 2023-05-11 오후 4 26 05](https://github.com/JayYoon0412/simulator-cellular-automata/assets/90667275/717faf8b-faa8-4c2c-8116-fa20c9c97769)
+
+
 ## User Interface
 
 ![User Interface 001](https://user-images.githubusercontent.com/90667275/215635059-ab3cf317-2262-40f1-aba3-cf929787943b.jpeg)
